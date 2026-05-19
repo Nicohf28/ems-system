@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Proyecto Final - Móvil",
+    "description": "Aplicación con pasarela de pagos Paypal y dos roles."
+  },
+  {
+    "id": 2,
+    "name": "Anteproyecto - MI",
+    "description": "Anteproyecto de Investigación para MI."
+  },
+  {
+    "id": 3,
+    "name": "Aplicación Freelance",
+    "description": "Alicación web freelance para edición de imágenes."
+  },
+  {
+    "id": 4,
+    "name": "Filantropía en Engativá",
+    "description": "Repartir sandwiches."
+  },
+  {
+    "id": 5,
+    "name": "Carro con Arduino",
+    "description": "Para aprendizaje de Electrónica Digital y Programación."
+  },
+  {
+    "id": 6,
+    "name": "Plataforma de aprendizaje",
+    "description": "Plataforma de escritorio de aprendizaje para estudiantes."
+  }
+]
